@@ -9,8 +9,10 @@ Front-end developer building scalable, high-performance interfaces with **Next.j
 
 ## Currently
 
-- Building a web platform and a fully custom CMS for a modeling agency (freelance)
+- Building the web platform and a fully custom CMS for **Pregiato Management**, a modeling agency
 - Front-end development and internal web tools at Vianelli
+
+<sub>Pregiato Management is an ongoing freelance engagement.</sub>
 
 ## Skills
 
@@ -21,7 +23,7 @@ Front-end developer building scalable, high-performance interfaces with **Next.j
 | Project | About | Live |
 | --- | --- | --- |
 | **Portfolio** | 100% hand-rolled with vanilla JS: PT/EN i18n, interactive terminal, technical SEO, LGPD compliance. Lighthouse 95+ / 100 / 100 / 100. Deployed on Cloudflare Workers. | [filipe.span.dev.br](https://filipe.span.dev.br) |
-| **Pregiato Pets** | Web platform with a fully custom CMS (Next.js, React, TypeScript): dynamic catalog, SEO-first blog, admin panel. Lighthouse 85+ / 100 / 100 / 100. | client work |
+| **Pregiato Pets** | Web platform with a fully custom CMS (Next.js, React, TypeScript): dynamic catalog, SEO-first blog, admin panel. Lighthouse 85+ / 100 / 100 / 100. | [pregipets.com.br](https://pregipets.com.br) |
 | **cable-ui** | Minimal, accessible React + TypeScript component library. 20 components, zero runtime dependencies, light/dark design tokens, tested with Vitest and a hand-built live showcase. | [demo](https://cable-ui.filipespan.workers.dev) · [code](https://github.com/Filipespan/cable-ui) |
 
 <sub>More soon: open-sourcing a mini headless CMS.</sub>
