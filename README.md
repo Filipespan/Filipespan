@@ -26,6 +26,7 @@ Front-end developer building scalable, high-performance interfaces with **Next.j
 | **Pregiato Pets** | Web platform with a fully custom CMS (Next.js, React, TypeScript): dynamic catalog, SEO-first blog, admin panel. Lighthouse 85+ / 100 / 100 / 100. | [pregipets.com.br](https://pregipets.com.br) |
 | **cable-ui** | Minimal, accessible React + TypeScript component library. 20 components, zero runtime dependencies, light/dark design tokens, tested with Vitest and a hand-built live showcase. | [demo](https://cable-ui.filipespan.workers.dev) · [code](https://github.com/Filipespan/cable-ui) |
 | **quire** | Open-source headless CMS on Cloudflare Workers (Next.js, TypeScript). JSON API, cookie auth with roles, admin panel, and a public blog reading the same content layer. D1 + R2, 76 tests in the Workers runtime. | [demo](https://quire.filipespan.workers.dev) · [code](https://github.com/Filipespan/quire) |
+| **featherweight** | Web performance case study: one landing page built twice, baseline vs optimized, with the real Lighthouse deltas explained decision by decision. Astro with zero JavaScript shipped, self-hosted fonts, AVIF, and budgets that fail CI. 98 / 100 / 100 / 100 on mobile against the live URL. | [demo](https://featherweight.filipespan.workers.dev) · [code](https://github.com/Filipespan/featherweight) |
 
 ## Contact
 
