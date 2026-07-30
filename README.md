@@ -27,6 +27,7 @@ Front-end developer building scalable, high-performance interfaces with **Next.j
 | **cable-ui** | Minimal, accessible React + TypeScript component library. 20 components, zero runtime dependencies, light/dark design tokens, tested with Vitest and a hand-built live showcase. | [demo](https://cable-ui.filipespan.workers.dev) · [code](https://github.com/Filipespan/cable-ui) |
 | **quire** | Open-source headless CMS on Cloudflare Workers (Next.js, TypeScript). JSON API, cookie auth with roles, admin panel, and a public blog reading the same content layer. D1 + R2, 76 tests in the Workers runtime. | [demo](https://quire.filipespan.workers.dev) · [code](https://github.com/Filipespan/quire) |
 | **featherweight** | Web performance case study: one landing page built twice, baseline vs optimized, with the real Lighthouse deltas explained decision by decision. Astro with zero JavaScript shipped, self-hosted fonts, AVIF, and budgets that fail CI. 98 / 100 / 100 / 100 on mobile against the live URL. | [demo](https://featherweight.filipespan.workers.dev) · [code](https://github.com/Filipespan/featherweight) |
+| **caliper** | Core Web Vitals auditing on top of the PageSpeed Insights API: parallel mobile and desktop runs, a serial queue that compares up to four pages, retry with backoff and a typed error layer. Zoneless Angular 21, RxJS, PT/EN, 48 tests on both Vitest and Karma at 94% coverage. | [demo](https://caliper.filipespan.workers.dev) · [code](https://github.com/Filipespan/caliper) |
 
 ## Contact
 
