@@ -1,36 +1,38 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Filipe Spanghero, Front-end Developer" src="assets/banner-light.svg">
-</picture>
+<p><img src="assets/banner.avif" width="100%" alt="Filipe Spanghero, front-end developer"></p>
 
-Front-end developer building scalable, high-performance interfaces with **Next.js, React and TypeScript**. Experience creating web applications and custom CMS platforms from scratch, with strong focus on design, performance and SEO. Systems Analysis and Development student at FATEC.
+I build sites and web apps with **Next.js, React and TypeScript**, from the first layout to the deploy on Cloudflare. Most of them ship with a CMS the client edits on their own, and every page gets measured before I call it done. Systems Analysis and Development student at FATEC.
 
-**Live portfolio → [filipe.span.dev.br](https://filipe.span.dev.br)**
+Live portfolio at **[filipe.span.dev.br](https://filipe.span.dev.br)**
 
 ## Currently
 
-- Building the web platform and a fully custom CMS for **Pregiato Management**, a modeling agency
-- Front-end development and internal web tools at Vianelli
+- Building the web platform and a custom CMS for **Pregiato Management**, a modeling agency (freelance)
+- Front-end and internal web tools at **Vianelli**
 
-<sub>Pregiato Management is an ongoing freelance engagement.</sub>
+## Client work
 
-## Skills
+<!-- cards:client -->
+<a href="https://loftelegance.com.br"><img src="assets/cards/loft.svg" width="49%" alt="Loft Elegance: Site for a builder of high-end lofts delivered turnkey in 90 days. Every section is editable in Sanity."></a>
+<a href="https://camuflagemdecicatriz.com.br"><img src="assets/cards/camila.svg" width="49%" alt="Dra. Camila S Capobianco: Single-page site for a scar camouflage clinic. Static Astro, and the client edits copy and photos in Sanity."></a>
+<a href="https://petsprimepublicidade.com.br"><img src="assets/cards/primepets.svg" width="49%" alt="Prime Pets: Casting platform for pet models with a public catalog, a sign-up flow for owners and an admin panel."></a>
+<a href="https://pregipets.com.br"><img src="assets/cards/pregipets.svg" width="49%" alt="Pregiato Pets: Pet modeling agency platform with a custom CMS, a dynamic catalog and an SEO-first blog."></a>
+<!-- /cards:client -->
 
-[![My skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,git,cloudflare&theme=dark)](https://filipe.span.dev.br)
+## Open source
 
-## Projects
+<!-- cards:oss -->
+<a href="https://github.com/Filipespan/quire"><img src="assets/cards/quire.svg" width="49%" alt="quire: Headless CMS on Cloudflare Workers with a JSON API, cookie auth with roles, an admin panel and a public blog. 76 tests in the Workers runtime."></a>
+<a href="https://github.com/Filipespan/cable-ui"><img src="assets/cards/cable-ui.svg" width="49%" alt="cable-ui: Accessible React component library. 20 components, zero runtime dependencies, light and dark design tokens."></a>
+<a href="https://github.com/Filipespan/featherweight"><img src="assets/cards/featherweight.svg" width="49%" alt="featherweight: One landing page built twice, baseline and optimized, with the real Lighthouse deltas explained. 98 on mobile."></a>
+<a href="https://github.com/Filipespan/caliper"><img src="assets/cards/caliper.svg" width="49%" alt="caliper: Core Web Vitals audits on the PageSpeed Insights API, comparing up to four pages side by side. 94% test coverage."></a>
+<!-- /cards:oss -->
 
-| Project | About | Live |
-| --- | --- | --- |
-| **Portfolio** | 100% hand-rolled with vanilla JS: PT/EN i18n, interactive terminal, technical SEO, LGPD compliance. Lighthouse 95+ / 100 / 100 / 100. Deployed on Cloudflare Workers. | [filipe.span.dev.br](https://filipe.span.dev.br) |
-| **Pregiato Pets** | Web platform with a fully custom CMS (Next.js, React, TypeScript): dynamic catalog, SEO-first blog, admin panel. Lighthouse 85+ / 100 / 100 / 100. | [pregipets.com.br](https://pregipets.com.br) |
-| **cable-ui** | Minimal, accessible React + TypeScript component library. 20 components, zero runtime dependencies, light/dark design tokens, tested with Vitest and a hand-built live showcase. | [demo](https://cable-ui.filipespan.workers.dev) · [code](https://github.com/Filipespan/cable-ui) |
-| **quire** | Open-source headless CMS on Cloudflare Workers (Next.js, TypeScript). JSON API, cookie auth with roles, admin panel, and a public blog reading the same content layer. D1 + R2, 76 tests in the Workers runtime. | [demo](https://quire.filipespan.workers.dev) · [code](https://github.com/Filipespan/quire) |
-| **featherweight** | Web performance case study: one landing page built twice, baseline vs optimized, with the real Lighthouse deltas explained decision by decision. Astro with zero JavaScript shipped, self-hosted fonts, AVIF, and budgets that fail CI. 98 / 100 / 100 / 100 on mobile against the live URL. | [demo](https://featherweight.filipespan.workers.dev) · [code](https://github.com/Filipespan/featherweight) |
-| **caliper** | Core Web Vitals auditing on top of the PageSpeed Insights API: parallel mobile and desktop runs, a serial queue that compares up to four pages, retry with backoff and a typed error layer. Zoneless Angular 21, RxJS, PT/EN, 48 tests on both Vitest and Karma at 94% coverage. | [demo](https://caliper.filipespan.workers.dev) · [code](https://github.com/Filipespan/caliper) |
+## Stack
+
+[![Next.js, React, TypeScript, JavaScript, Tailwind, Astro, Angular, Node.js, HTML, CSS, Cloudflare, Workers, Supabase, Vitest and Git](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,astro,angular,nodejs,html,css,cloudflare,workers,supabase,vitest,git&theme=dark&perline=15)](https://filipe.span.dev.br)
 
 ## Contact
 
-[filipe.span.dev.br](https://filipe.span.dev.br) · [filipe@span.dev.br](mailto:filipe@span.dev.br) · [linkedin.com/in/filipespan](https://www.linkedin.com/in/filipespan/)
+[filipe@span.dev.br](mailto:filipe@span.dev.br) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/filipespan/) &nbsp;&nbsp; [filipe.span.dev.br](https://filipe.span.dev.br)
 
 <sub>🇧🇷 Falo português, fique à vontade.</sub>

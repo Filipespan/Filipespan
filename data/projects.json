@@ -1,0 +1,66 @@
+{
+  "client": [
+    {
+      "id": "loft",
+      "name": "Loft Elegance",
+      "url": "https://loftelegance.com.br",
+      "description": "Site for a builder of high-end lofts delivered turnkey in 90 days. Every section is editable in Sanity.",
+      "tags": ["Next.js", "TypeScript", "Sanity", "Framer Motion"]
+    },
+    {
+      "id": "camila",
+      "name": "Dra. Camila S Capobianco",
+      "url": "https://camuflagemdecicatriz.com.br",
+      "description": "Single-page site for a scar camouflage clinic. Static Astro, and the client edits copy and photos in Sanity.",
+      "tags": ["Astro", "TypeScript", "Tailwind", "Sanity"]
+    },
+    {
+      "id": "primepets",
+      "name": "Prime Pets",
+      "url": "https://petsprimepublicidade.com.br",
+      "description": "Casting platform for pet models with a public catalog, a sign-up flow for owners and an admin panel.",
+      "tags": ["Next.js", "Cloudflare D1", "R2", "Supabase Auth"]
+    },
+    {
+      "id": "pregipets",
+      "name": "Pregiato Pets",
+      "url": "https://pregipets.com.br",
+      "description": "Pet modeling agency platform with a custom CMS, a dynamic catalog and an SEO-first blog.",
+      "tags": ["Next.js", "React", "TypeScript", "Tailwind"]
+    }
+  ],
+  "oss": [
+    {
+      "id": "quire",
+      "name": "quire",
+      "url": "https://github.com/Filipespan/quire",
+      "shown": "quire.filipespan.workers.dev",
+      "description": "Headless CMS on Cloudflare Workers with a JSON API, cookie auth with roles, an admin panel and a public blog. 76 tests in the Workers runtime.",
+      "tags": ["Next.js", "D1", "R2", "Workers"]
+    },
+    {
+      "id": "cable-ui",
+      "name": "cable-ui",
+      "url": "https://github.com/Filipespan/cable-ui",
+      "shown": "cable-ui.filipespan.workers.dev",
+      "description": "Accessible React component library. 20 components, zero runtime dependencies, light and dark design tokens.",
+      "tags": ["React", "TypeScript", "Vitest"]
+    },
+    {
+      "id": "featherweight",
+      "name": "featherweight",
+      "url": "https://github.com/Filipespan/featherweight",
+      "shown": "featherweight.filipespan.workers.dev",
+      "description": "One landing page built twice, baseline and optimized, with the real Lighthouse deltas explained. 98 on mobile.",
+      "tags": ["Astro", "Zero JS", "AVIF", "Cloudflare"]
+    },
+    {
+      "id": "caliper",
+      "name": "caliper",
+      "url": "https://github.com/Filipespan/caliper",
+      "shown": "caliper.filipespan.workers.dev",
+      "description": "Core Web Vitals audits on the PageSpeed Insights API, comparing up to four pages side by side. 94% test coverage.",
+      "tags": ["Angular 21", "RxJS", "Vitest", "Karma"]
+    }
+  ]
+}
