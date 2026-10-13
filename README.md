@@ -27,6 +27,10 @@ Live portfolio at **[filipe.span.dev.br](https://filipe.span.dev.br)**
 <a href="https://github.com/Filipespan/caliper"><img src="assets/cards/caliper.svg" width="49%" alt="caliper: Core Web Vitals audits on the PageSpeed Insights API, comparing up to four pages side by side. 94% test coverage."></a>
 <!-- /cards:oss -->
 
+## Activity
+
+<p><img src="assets/skyline.svg" width="100%" alt="My GitHub contributions over the last year, drawn as an isometric skyline"></p>
+
 ## Stack
 
 [![Next.js, React, TypeScript, JavaScript, Tailwind, Astro, Angular, Node.js, HTML, CSS, Cloudflare, Workers, Supabase, Vitest and Git](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,astro,angular,nodejs,html,css,cloudflare,workers,supabase,vitest,git&theme=dark&perline=15)](https://filipe.span.dev.br)
