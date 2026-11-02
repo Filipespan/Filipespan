@@ -1,6 +1,20 @@
 {
   "client": [
     {
+      "id": "tuon",
+      "name": "Tuon Cosméticos",
+      "url": "https://tuon.com.br",
+      "description": "Landing page for a private-label cosmetics factory. Static Astro, edited in Sanity and deployed by GitHub Actions.",
+      "tags": ["Astro", "TypeScript", "Sanity", "GitHub Actions"]
+    },
+    {
+      "id": "abrahipe",
+      "name": "ABRAHIPE",
+      "url": "https://abrahipe.org.br",
+      "description": "Redesign for a nonprofit offering free equine therapy for 20 years. Static Astro, and the team edits copy and photos in Sanity.",
+      "tags": ["Astro", "TypeScript", "Tailwind", "Sanity"]
+    },
+    {
       "id": "loft",
       "name": "Loft Elegance",
       "url": "https://loftelegance.com.br",

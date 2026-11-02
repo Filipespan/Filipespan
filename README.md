@@ -6,12 +6,15 @@ Live portfolio at **[filipe.span.dev.br](https://filipe.span.dev.br)**
 
 ## Currently
 
+- Running **[Span](https://span.dev.br)**, my web studio: sites, landing pages and web platforms for mid-size and large companies
 - Building the web platform and a custom CMS for **Pregiato Management**, a modeling agency (freelance)
 - Front-end and internal web tools at **Vianelli**
 
 ## Client work
 
 <!-- cards:client -->
+<a href="https://tuon.com.br"><img src="assets/cards/tuon.svg" width="49%" alt="Tuon Cosméticos: Landing page for a private-label cosmetics factory. Static Astro, edited in Sanity and deployed by GitHub Actions."></a>
+<a href="https://abrahipe.org.br"><img src="assets/cards/abrahipe.svg" width="49%" alt="ABRAHIPE: Redesign for a nonprofit offering free equine therapy for 20 years. Static Astro, and the team edits copy and photos in Sanity."></a>
 <a href="https://loftelegance.com.br"><img src="assets/cards/loft.svg" width="49%" alt="Loft Elegance: Site for a builder of high-end lofts delivered turnkey in 90 days. Every section is editable in Sanity."></a>
 <a href="https://camuflagemdecicatriz.com.br"><img src="assets/cards/camila.svg" width="49%" alt="Dra. Camila S Capobianco: Single-page site for a scar camouflage clinic. Static Astro, and the client edits copy and photos in Sanity."></a>
 <a href="https://petsprimepublicidade.com.br"><img src="assets/cards/primepets.svg" width="49%" alt="Prime Pets: Casting platform for pet models with a public catalog, a sign-up flow for owners and an admin panel."></a>
