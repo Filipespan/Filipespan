@@ -8,7 +8,6 @@ Live portfolio at **[filipe.span.dev.br](https://filipe.span.dev.br)**
 
 - Running **[Span](https://span.dev.br)**, my web studio: sites, landing pages and web platforms for mid-size and large companies
 - Building the web platform and a custom CMS for **Pregiato Management**, a modeling agency (freelance)
-- Front-end and internal web tools at **Vianelli**
 
 ## Client work
 
